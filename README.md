@@ -8,6 +8,7 @@
 - <b>[FinanzApp](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 - <b>[Tracking System for Equipment Provided in a University Laboratory](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 - <b>[Community Service Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- <b>[InfoAgenda](https://github.com/joshmadakor1/Algorithms-Practice)</b>
  
 <h2> 🤳 Connect with me:</h2>
 
