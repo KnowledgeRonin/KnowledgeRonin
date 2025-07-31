@@ -4,12 +4,12 @@ I want to make projects as a software developer. I like to be proactive, plannin
 <h2>👨‍💻 Works and Projects:</h2>
 
 - [Espacio Team / Espacio Network Webpage Update](https://github.com/KnowledgeRonin/Espacio-Team-Espacio-Network-Webpage-Update)
-- [Discount Coupon Template Manager System](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Disco Game](https://github.com/joshmadakor1/Algorithms-Practice)
-- [FinanzApp](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Tracking System for Equipment Provided in a University Laboratory](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Community Service Project](https://github.com/joshmadakor1/Algorithms-Practice)
-- [InfoAgenda](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Discount Coupon Template Manager System](https://github.com/KnowledgeRonin/Discount-Coupon-Template-Manager-System)
+- [Disco Game](https://github.com/KnowledgeRonin/Disco-Game)
+- [FinanzApp](https://github.com/KnowledgeRonin/FinanzApp)
+- [Tracking System for Equipment Provided in a University Laboratory](https://github.com/KnowledgeRonin/Tracking-System-for-Equipment-Provided-in-a-University-Laboratory)
+- [Community Service Project](https://github.com/KnowledgeRonin/Community-Service-Project)
+- [InfoAgenda](https://github.com/KnowledgeRonin/InfoAgenda)
  
 <h2>🤳 How to reach me:</h2>
 
