@@ -10,10 +10,10 @@
 - <b>[Community Service Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 - <b>[InfoAgenda](https://github.com/joshmadakor1/Algorithms-Practice)</b>
  
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 How to reach me::</h2>
 
-[<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
-[<img align="left" alt="JoshMadakor | Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/microsoftoutlook.svg" />][outlook]
+[<img align="left" alt="KnowledgeRonin | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg" />][gmail]
+[<img align="left" alt="KnowledgeRonin | Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/microsoftoutlook.svg" />][outlook]
 
 [gmail]: royseduardor@gmail.com
 [outlook]: royeduardo.s.r@hotmail.com
