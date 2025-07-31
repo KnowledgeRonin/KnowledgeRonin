@@ -10,15 +10,20 @@
 - <b>[Community Service Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
 - <b>[InfoAgenda](https://github.com/joshmadakor1/Algorithms-Practice)</b>
  
-<h2> 🤳 How to reach me:</h2>
+<h2>🤳 How to reach me:</h2>
 
-[<img align="left" alt="Gmail" width="22px" src="./assets/gmail-svgblack.svg#gh-light-mode-only" />][gmail]
-[<img align="left" alt="Gmail" width="22px" src="./assets/gmail-svgwhite.svg#gh-dark-mode-only" />][gmail]
-[<img align="left" alt="Outlook" width="22px" src="./assets/microsoftoutlook-svgblack.svg#gh-light-mode-only" />][outlook]
-[<img align="left" alt="Outlook" width="22px" src="./assets/microsoftoutlook-svgwhite.svg#gh-dark-mode-only" />][outlook]
+<a href="mailto:royseduardor@gmail.com">
+  <img align="left" src="./assets/icons/gmail-light.svg#gh-light-mode-only" width="22" alt="Gmail">
+  <img align="left" src="./assets/icons/gmail-dark.svg#gh-dark-mode-only" width="22" alt="Gmail">
+</a>
 
-[gmail]: royseduardor@gmail.com
-[outlook]: royeduardo.s.r@hotmail.com
+<a href="mailto:royeduardo.s.r@hotmail.com" style="margin-left: 10px;">
+  <img align="left" src="./assets/icons/outlook-light.svg#gh-light-mode-only" width="22" alt="Outlook">
+  <img align="left" src="./assets/icons/outlook-dark.svg#gh-dark-mode-only" width="22" alt="Outlook">
+</a>
+
+<br><br>
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
