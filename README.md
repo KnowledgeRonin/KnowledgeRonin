@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Espacio Team / Espacio Network Webpage Update](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Espacio Team / Espacio Network Webpage Update](https://github.com/KnowledgeRonin/Espacio-Team-Espacio-Network-Webpage-Update)
 - [Discount Coupon Template Manager System](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Disco Game](https://github.com/joshmadakor1/Algorithms-Practice)
 - [FinanzApp](https://github.com/joshmadakor1/Algorithms-Practice)
