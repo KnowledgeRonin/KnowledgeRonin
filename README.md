@@ -1,6 +1,7 @@
-<h1>Hi, my name is Roy! (a.k.a. Knowledge Ronin).
+<h1>Hi, my name is Roy! (a.k.a. Knowledge Ronin).</h1>
+I want to make projects as a software developer. I like to be proactive, planning the architecture based on requirements with designers and stakeholders, and then translating it into structured, functional code.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Works and Projects:</h2>
 
 - [Espacio Team / Espacio Network Webpage Update](https://github.com/KnowledgeRonin/Espacio-Team-Espacio-Network-Webpage-Update)
 - [Discount Coupon Template Manager System](https://github.com/joshmadakor1/Algorithms-Practice)
