@@ -14,15 +14,15 @@
 
 <a href="mailto:royseduardor@gmail.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/gmail-dark.svg">
-    <img alt="Gmail (email)" src="./assets/gmail-light.svg" width="22">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/gmail-dark.svg">
+    <img alt="Gmail (email)" src="./assets/icons/gmail-light.svg" width="22">
   </picture>
 </a>
 
 <a href="mailto:royeduardo.s.r@hotmail.com" style="margin-left: 10px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/outlook-dark.svg">
-    <img alt="Outlook (email)" src="./assets/outlook-light.svg" width="22">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/outlook-dark.svg">
+    <img alt="Outlook (email)" src="./assets/icons/outlook-light.svg" width="22">
   </picture>
 </a>
 
