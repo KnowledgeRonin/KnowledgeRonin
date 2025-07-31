@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>[Espacio Team / Espacio Network Webpage Update](https://github.com/joshmadakor1/Algorithms-Practice)</b>
-- <b>[Discount Coupon Template Manager System](https://github.com/joshmadakor1/Algorithms-Practice)</b>
-- <b>[Disco Game](https://github.com/joshmadakor1/Algorithms-Practice)</b>
-- <b>[FinanzApp](https://github.com/joshmadakor1/Algorithms-Practice)</b>
-- <b>[Tracking System for Equipment Provided in a University Laboratory](https://github.com/joshmadakor1/Algorithms-Practice)</b>
-- <b>[Community Service Project](https://github.com/joshmadakor1/Algorithms-Practice)</b>
-- <b>[InfoAgenda](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+- [Espacio Team / Espacio Network Webpage Update](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Discount Coupon Template Manager System](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Disco Game](https://github.com/joshmadakor1/Algorithms-Practice)
+- [FinanzApp](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Tracking System for Equipment Provided in a University Laboratory](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Community Service Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [InfoAgenda](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h2>🤳 How to reach me:</h2>
 
