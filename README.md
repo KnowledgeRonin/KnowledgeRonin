@@ -10,7 +10,6 @@ I want to make projects as a software developer. I like to be proactive, plannin
 - [Tracking System for Equipment Provided in a University Laboratory](https://github.com/KnowledgeRonin/Tracking-System-for-Equipment-Provided-in-a-University-Laboratory)
 - [Community Service Project](https://github.com/KnowledgeRonin/Community-Service-Project)
 - [InfoAgenda](https://github.com/KnowledgeRonin/InfoAgenda)
-- [Simple Calculator](https://github.com/KnowledgeRonin/SimpleCalculator)
  
 <h2>🤳 How to reach me:</h2>
 
