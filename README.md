@@ -13,13 +13,6 @@ I enjoy being proactive — planning architecture based on requirements with des
 - [Community Service Project](https://github.com/KnowledgeRonin/Community-Service-Project)
 - [InfoAgenda](https://github.com/KnowledgeRonin/InfoAgenda)
 
-## 🤳 How to reach me
-
-You can contact me via email:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/roy-sepúlveda/)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:royeduardo.s.r@hotmail.com)
-
 ## 💬 About Me
 
 - 🔭 I’m currently contributing as a volunteer to redesign and update a WordPress-based website for a coworking and radio space.  
@@ -27,3 +20,10 @@ You can contact me via email:
 - 👯 I plan to resume and complete my Community Service Project repository soon.  
 - 💬 Ask me about backend design patterns, database structuring, and software development principles.  
 - ⚡ Fun fact: I approach programming like architecture — every class, method, and database relation should support a solid, scalable structure.
+
+## 🤳 How to reach me
+
+You can contact me via email:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/roy-sepúlveda/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:royeduardo.s.r@hotmail.com)
