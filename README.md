@@ -1,7 +1,9 @@
-<h1>Hi, my name is Roy! (a.k.a. Knowledge Ronin).</h1>
-I want to make projects as a software developer. I like to be proactive, planning the architecture based on requirements with designers and stakeholders, and then translating it into structured, functional code.
+# Hi, my name is Roy! (a.k.a. Knowledge Ronin)
 
-<h2>👨‍💻 Works and Projects:</h2>
+I create projects as a software developer.  
+I enjoy being proactive — planning architecture based on requirements with designers and stakeholders, then translating that into structured, functional code.
+
+## 👨‍💻 Works and Projects
 
 - [Espacio Team / Espacio Network Webpage Update](https://github.com/KnowledgeRonin/Espacio-Team-Espacio-Network-Webpage-Update)
 - [Discount Coupon Template Manager System](https://github.com/KnowledgeRonin/Discount-Coupon-Template-Manager-System)
@@ -10,35 +12,18 @@ I want to make projects as a software developer. I like to be proactive, plannin
 - [Tracking System for Equipment Provided in a University Laboratory](https://github.com/KnowledgeRonin/Tracking-System-for-Equipment-Provided-in-a-University-Laboratory)
 - [Community Service Project](https://github.com/KnowledgeRonin/Community-Service-Project)
 - [InfoAgenda](https://github.com/KnowledgeRonin/InfoAgenda)
- 
-<h2>🤳 How to reach me:</h2>
 
-<a href="mailto:royseduardor@gmail.com" style="margin-left: 10px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/gmail-dark.svg">
-    <img alt="Gmail (email)" src="./assets/icons/gmail-light.svg" width="22" align="left">
-  </picture>
-</a>
+## 🤳 How to reach me
 
-<a href="mailto:royeduardo.s.r@hotmail.com" style="margin-left: 10px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/outlook-dark.svg">
-    <img alt="Outlook (email)" src="./assets/icons/outlook-light.svg" width="22" align="left">
-  </picture>
-</a>
+You can contact me via email:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/roy-sepúlveda/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:royeduardo.s.r@hotmail.com)
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently contributing as a volunteer to redesign and update a WordPress-based website for a coworking and radio space.  
+- 🌱 I’m deepening my knowledge in backend development, focusing on Java, databases, and system architecture.  
+- 👯 I plan to resume and complete my Community Service Project repository soon.  
+- 💬 Ask me about backend design patterns, database structuring, and software development principles.  
+- ⚡ Fun fact: I approach programming like architecture — every class, method, and database relation should support a solid, scalable structure.
