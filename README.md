@@ -23,7 +23,7 @@ I enjoy being proactive — planning architecture based on requirements with des
 
 ## 🤳 How to reach me
 
-You can contact me via email:
+You can contact me via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/roy-sepúlveda/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:royeduardo.s.r@hotmail.com)
