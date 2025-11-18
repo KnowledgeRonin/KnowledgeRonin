@@ -6,11 +6,7 @@ I enjoy being proactive — planning architecture based on requirements with des
 ## 👨‍💻 Works and Projects
 
 - [Espacio Team / Espacio Network Webpage Update](https://github.com/KnowledgeRonin/Espacio-Team-Espacio-Network-Webpage-Update)
-- [Discount Coupon Template Manager System](https://github.com/KnowledgeRonin/Discount-Coupon-Template-Manager-System)
 - [Disco Game](https://github.com/KnowledgeRonin/Disco-Game)
-- [FinanzApp](https://github.com/KnowledgeRonin/FinanzApp)
-- [Tracking System for Equipment Provided in a University Laboratory](https://github.com/KnowledgeRonin/Tracking-System-for-Equipment-Provided-in-a-University-Laboratory)
-- [Community Service Project](https://github.com/KnowledgeRonin/Community-Service-Project)
 - [InfoAgenda](https://github.com/KnowledgeRonin/InfoAgenda)
 
 ## 💬 About Me
