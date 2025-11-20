@@ -5,10 +5,10 @@ I enjoy being proactive — planning architecture based on requirements with des
 
 ## 👨‍💻 Works and Projects
 
-- [Discount Coupon Template Manager System](https://github.com/KnowledgeRonin/Discount-Coupon-Template-Manager-System)
-- [Espacio Team / Espacio Network Webpage Update](https://github.com/KnowledgeRonin/Espacio-Team-Espacio-Network-Webpage-Update)
-- [InfoAgenda](https://github.com/KnowledgeRonin/InfoAgenda)
-- [Disco Game](https://github.com/KnowledgeRonin/Disco-Game)
+- [Discount Coupon Template Manager System](https://github.com/KnowledgeRonin/duke-discount-manager)
+- [Espacio Team / Espacio Network Webpage Update](https://github.com/KnowledgeRonin/espacio-team-webpage-update)
+- [Info Agenda](https://github.com/KnowledgeRonin/info-agenda)
+- [Disco Game](https://github.com/KnowledgeRonin/disco-game)
 
 ## 💬 About Me
 
