@@ -1,4 +1,4 @@
-# Hi, my name is Roy! (a.k.a. Knowledge Ronin)
+# Hi 👋, my name is Roy! (a.k.a. Knowledge Ronin)
 
 I create projects as a software developer.  
 I enjoy being proactive — planning architecture based on requirements with designers and stakeholders, then translating that into structured, functional code.
