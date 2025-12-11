@@ -27,6 +27,7 @@ I enjoy being proactive — planning architecture based on requirements with des
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat&logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 
 ## 🤳 How to reach me
 
