@@ -7,8 +7,8 @@ Software Engineer focused on building scalable, high-quality web applications. I
 | Project | Key Features | Tech Stack |
 | :--- | :--- | :--- |
 | **[Duke Discount Manager](https://github.com/KnowledgeRonin/duke-discount-manager)** | MVP for coupon management with dynamic editing in Canvas. | `React` `Fabric.js` `Supabase` |
-| **[Swimming Tracker](https://github.com/KnowledgeRonin/swimming-tracker)** | (WIP) Physical activity tracking using a layered architecture. | `Java` `Spring Boot` `PostgreSQL` |
 | **[Marketing Landing Page](https://github.com/KnowledgeRonin/university-bootstrap-landing-page)** | Conversion-optimized, mobile-first site with focus on web performance and accessibility. | `HTML5` `CSS3` `JavaScript` `Bootstrap` |
+| **[Swimming Tracker](https://github.com/KnowledgeRonin/swimming-tracker)** | (WIP) Physical activity tracking using a layered architecture. | `Java` `Spring Boot` `PostgreSQL` |
 
 ## 💬 About Me
 
