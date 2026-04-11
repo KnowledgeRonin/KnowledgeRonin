@@ -1,22 +1,19 @@
 # Hi 👋, my name is Roy! (a.k.a. KnowledgeRonin)
 
-I create projects as a software developer.  
-I enjoy being proactive — planning architecture based on requirements with designers and stakeholders, then translating that into structured, functional code.
+Software Engineer focused on building scalable, high-quality web applications. I bridge the gap between complex requirements and structured, maintainable code. Currently specializing in the React/Next.js ecosystem and strengthening my Backend (Java/Spring Boot) foundation.
 
-## 👨‍💻 Works and Projects
+## 🚀 Featured Projects
 
-- [Duke Discount Manager](https://github.com/KnowledgeRonin/duke-discount-manager)
-- [Espacio Team Webpage Update](https://github.com/KnowledgeRonin/espacio-team-webpage-update)
-- [Info Agenda](https://github.com/KnowledgeRonin/info-agenda)
-- [Discoquette Game](https://github.com/KnowledgeRonin/disco-game)
+| Project | Key Features | Tech Stack |
+| :--- | :--- | :--- |
+| **[Duke Discount Manager](https://github.com/KnowledgeRonin/duke-discount-manager)** | MVP for coupon management with dynamic editing in Canvas. | `React` `Fabric.js` `Supabase` |
+| **[Swimming Tracker](https://github.com/KnowledgeRonin/swimming-tracker)** | (WIP) Physical activity tracking using a layered architecture. | `Java` `Spring Boot` `PostgreSQL` |
 
 ## 💬 About Me
 
-- 🔭 I’m currently contributing as a volunteer to redesign and update a WordPress-based website for a coworking and radio space.  
-- 🌱 I’m deepening my knowledge in backend development, focusing on Java, databases, and system architecture.  
-- 👯 I plan to resume and complete my Community Service Project repository soon.  
-- 💬 Ask me about backend design patterns, database structuring, and software development principles.  
-- ⚡ Fun fact: I approach programming like architecture — every class, method, and database relation should support a solid, scalable structure.
+- 🌱 Currently deep-diving into **System Architecture** and **Backend Design Patterns**.
+- 👯 Looking to collaborate on international remote projects.
+- ⚡ Fun fact: I analyze "The Amazing World of Gumball" for its satirical genius.
 
 ## 💻 Tech Stack & Top Skills
 
