@@ -34,4 +34,4 @@ I enjoy being proactive — planning architecture based on requirements with des
 You can contact me via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-sepulveda/)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:royeduardo.s.r@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:rsepulveda.dev@outlook.com)
